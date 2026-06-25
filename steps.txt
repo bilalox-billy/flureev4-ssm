@@ -34,7 +34,6 @@ DID:        did:key:z6MkinZsXWnvyTfACnb2zGcTLZ3ApjjT6qG4jj4duKAdUvVy
 
 
 # Step2:
- fluree token create --private-key z3u2e5YGyGmkSQetJLZsyXzU4Hvn5AWhyJ3At2Wb7EL5NXv4 --read-ledger demo:dev --write-ledger demo:dev
+ fluree token create --private-key {private-key} --read-ledger demo:dev --write-ledger demo:dev
 
 
-eyJhbGciOiJFZERTQSIsImp3ayI6eyJrdHkiOiJPS1AiLCJjcnYiOiJFZDI1NTE5IiwieCI6IlFHRHdoYWZUV1ZCNnpSSnA5eTJsT0ZKcEZiZ05KNkNidFFoU3JVUV9ScHcifX0.eyJpc3MiOiJkaWQ6a2V5Ono2TWtpblpzWFdudnlUZkFDbmIyekdjVExaM0FwampUNnFHNGpqNGR1S0FkVXZWeSIsImV4cCI6MTc4MjM0MzA0MSwiaWF0IjoxNzgyMzM5NDQxLCJmbHVyZWUubGVkZ2VyLnJlYWQubGVkZ2VycyI6WyJkZW1vOmRldiJdLCJmbHVyZWUubGVkZ2VyLndyaXRlLmxlZGdlcnMiOlsiZGVtbzpkZXYiXX0.ihKo5l8VwyvLXCRAR7rtc6Wvs7Iiz2PE-ksWaO3qVn4HPfEIuz23899XyeNbU7L_saS7TQXlqZ31d96fq2pDCw
